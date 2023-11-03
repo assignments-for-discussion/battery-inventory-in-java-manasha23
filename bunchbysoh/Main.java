@@ -16,7 +16,7 @@ public class Main {
         counts.healthy++;
       }
       else if(soh>=62.0){
-        counts.exhange++;
+        counts.exchange++;
       }
       else
       {
